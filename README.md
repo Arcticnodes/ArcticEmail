@@ -1,4 +1,4 @@
-<div align="center"><img src="https://arcticnodes.com/assets/images/arcticnodes.png" width="200"></div>
+<div align="center"><img src="https://cdn.arctic.li/arctic.png" width="200"></div>
 
 # ArcticEmail
 Email template for Arcticnodes.com
